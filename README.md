@@ -1,0 +1,51 @@
+## Hi, I'm Alex 👋
+
+I'm a Computer Science senior at **San José State University** (B.S., December 2026) looking for **new-grad software engineering roles starting January 2027**, backend, full stack or product.
+
+This past year I've built cybersecurity assessment tooling at **Belden**, shipped a Snowflake data pipeline and alerting integrations at **eSentire**, and built full-stack apps on the side, most recently with AI models in the loop and agent-driven tests checking the work before it ships.
+
+📍 San Jose, CA &nbsp;·&nbsp; 💼 [linkedin.com/in/alex-j-xavier](https://www.linkedin.com/in/alex-j-xavier) &nbsp;·&nbsp; ✉️ [xavier.j.alex0127@gmail.com](mailto:xavier.j.alex0127@gmail.com)
+
+---
+
+### 🛠️ Featured projects
+
+| Project | What it is | Built with |
+|---|---|---|
+| **[ChopChop](https://github.com/alexxaviers/ChopChop)** | AI kitchen assistant: a fridge photo becomes recipes and a grocery list. Co-built and deployed on Vercel + Render. | Python, Flask, Next.js, TypeScript, AWS Bedrock, Supabase |
+| **[SpartanClubConnect](https://github.com/alexxaviers/SpartanClubConnect)** | Campus club and event platform. I designed the 12-table MySQL schema and the RSVP system, which uses row locks so two people can't take the last seat. | Java, Servlets/JSP, JDBC, MySQL |
+| **[ClawdSap](https://github.com/alexxaviers/ClawdSap)** | Text a task on WhatsApp and it lands on your dashboard. I built the Flask API, signed-webhook verification and SSO. Hackathon build. | Python, Flask, SQLAlchemy, Next.js, WhatsApp Cloud API |
+| **[PhishChecker](https://github.com/alexxaviers/PhishChecker)** | Phishing URL classifier comparing three tuned models on 235K URLs. | Python, scikit-learn, XGBoost |
+
+### 💼 Experience
+
+- **Belden** · Technical Solutions Intern, Software & Cybersecurity · Summer 2026<br>
+  Python automation and a reusable data model mapping 1,589 assessment questions across 293 controls; a MITRE ATT&CK threat-analysis tool for IT/OT environments.
+- **eSentire** · Software Engineer Intern · Summer 2025<br>
+  Snowflake pipeline (Python, SQL, S3) for client-portal documents; CrowdStrike → Opsgenie alerting with Slack and Grafana dashboards; Terraform/IAM secrets-rotation prototype.
+- **School Health Clinics** · Data Analyst Intern · Summer 2024<br>
+  Tableau dashboard on billable CPT codes across five clinics.
+
+### 🧰 Tech
+
+**Languages:** Java · Python · Go · TypeScript · JavaScript · SQL · C<br>
+**Web:** React · Next.js · Flask · SQLAlchemy · Servlets/JSP<br>
+**Cloud & data:** AWS (S3, IAM, Lambda, Bedrock) · Terraform · Docker · Snowflake · Supabase · MySQL<br>
+**Ops:** Grafana · Opsgenie · Claude Code · Codex
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+</p>
+
+🎓 Certifications: Amazon Junior Software Developer · Google Data Analytics
