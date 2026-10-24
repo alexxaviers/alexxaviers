@@ -2,7 +2,7 @@
 
 I'm a Computer Science senior at **San José State University** (B.S., December 2026) looking for **new-grad software engineering roles starting January 2027**, backend, full stack or product.
 
-This past year I've built cybersecurity assessment tooling at **Belden**, shipped a Snowflake data pipeline and alerting integrations at **eSentire**, and built full-stack apps on the side, most recently with AI models in the loop and agent-driven tests checking the work before it ships.
+This past year I've built cybersecurity assessment tooling at **Belden**, shipped a Snowflake data pipeline and alerting integrations at **eSentire**, and built full-stack apps on the side, most recently an AI agent that triages security alerts, measured against a labeled eval set.
 
 📍 San Jose, CA &nbsp;·&nbsp; 💼 [linkedin.com/in/alex-j-xavier](https://www.linkedin.com/in/alex-j-xavier) &nbsp;·&nbsp; ✉️ [xavier.j.alex0127@gmail.com](mailto:xavier.j.alex0127@gmail.com)
 
@@ -12,6 +12,7 @@ This past year I've built cybersecurity assessment tooling at **Belden**, shippe
 
 | Project | What it is | Built with |
 |---|---|---|
+| **[AI Security-Alert Triage Agent](https://github.com/alexxaviers/AI-security-alert-triage-agent)** | LangGraph agent that triages security alerts like a tier-1 SOC analyst: pulls threat intel, maps to MITRE ATT&CK and sends low-confidence calls to a human. 94.7% severity accuracy on a 206-alert eval set vs 64.6% for a rules baseline. | Python, LangGraph, Claude, FastAPI, PostgreSQL, Next.js, Docker |
 | **[ChopChop](https://github.com/alexxaviers/ChopChop)** | AI kitchen assistant: a fridge photo becomes recipes and a grocery list. Co-built and deployed on Vercel + Render. | Python, Flask, Next.js, TypeScript, AWS Bedrock, Supabase |
 | **[SpartanClubConnect](https://github.com/alexxaviers/SpartanClubConnect)** | Campus club and event platform. I designed the 12-table MySQL schema and the RSVP system, which uses row locks so two people can't take the last seat. | Java, Servlets/JSP, JDBC, MySQL |
 | **[ClawdSap](https://github.com/alexxaviers/ClawdSap)** | Text a task on WhatsApp and it lands on your dashboard. I built the Flask API, signed-webhook verification and SSO. Hackathon build. | Python, Flask, SQLAlchemy, Next.js, WhatsApp Cloud API |
@@ -29,8 +30,8 @@ This past year I've built cybersecurity assessment tooling at **Belden**, shippe
 ### 🧰 Tech
 
 **Languages:** Java · Python · Go · TypeScript · JavaScript · SQL · C<br>
-**Web:** React · Next.js · Flask · SQLAlchemy · Servlets/JSP<br>
-**Cloud & data:** AWS (S3, IAM, Lambda, Bedrock) · Terraform · Docker · Snowflake · Supabase · MySQL<br>
+**Web & AI:** React · Next.js · Flask · FastAPI · SQLAlchemy · Servlets/JSP · LangGraph<br>
+**Cloud & data:** AWS (S3, IAM, Lambda, Bedrock) · Terraform · Docker · Snowflake · Supabase · PostgreSQL · MySQL<br>
 **Ops:** Grafana · Opsgenie · Claude Code · Codex
 
 <p>
@@ -41,9 +42,12 @@ This past year I've built cybersecurity assessment tooling at **Belden**, shippe
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
 <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
 </p>
